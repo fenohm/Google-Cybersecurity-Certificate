@@ -1,7 +1,7 @@
-# Professional-Statement
+# Professional Statement
 
 ## Estudiante Técnico en Ciberseguridad
-Me llamo Cristóbal Retamal Matamala y actualmente estoy cursando mi primer año de la carrera Técnico en Ciberseguridad en el Instituto Profesional AIEP.
+Me llamo Cristóbal Retamal Matamala y actualmente estoy estudiando la carrera Técnico en Ciberseguridad en el Instituto Profesional AIEP.
 Siempre me ha interesado la informática, especialmente los computadores y los dispositivos tecnológicos. A través de mis estudios he podido aprender más sobre este ámbito y conocer diferentes áreas relacionadas con la ciberseguridad. Me interesa especialmente la seguridad informática, las redes y los datacenters.
 Mi objetivo es aprovechar al máximo el tiempo que me queda de formación, seguir desarrollando mis conocimientos y fortalecer las habilidades que ya he adquirido. Para el próximo año, mi objetivo es comenzar a trabajar en el área de ciberseguridad y continuar adquiriendo experiencia práctica.
 
@@ -11,6 +11,6 @@ Mi objetivo es aprovechar al máximo el tiempo que me queda de formación, segui
 - Linux
 - SQL
 - Programación básica con Python
-- GitHub
+- Git y GitHub
 - Laboratorios con máquinas virtuales
 - Identificación de activos, amenazas y vulnerabilidades
