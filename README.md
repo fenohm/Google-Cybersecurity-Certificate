@@ -1,6 +1,7 @@
 # Google-Cybersecurity-Certificate
 My learning journey through the Google Cybersecurity Professional Certificate.
 
+Mi nombres es Cristóbal Retamal, pueden llamarme Feno, soy estudiante de Tecnico en Ciberseguridad en el instituto AIEP. 
 Este repositorio documenta mi progreso mientras completo el certificado de Google y desarrollo mis habilidades en ciberseguridad.
 
 ---
@@ -25,3 +26,4 @@ Este repositorio documenta mi progreso mientras completo el certificado de Googl
 - [⚪] Course 06 – Sound the Alarm: Detection and Response
 - [⚪] Course 07 – Automate Cybersecurity Tasks with Python
 - [⚪] Course 08 – Prepare for Cybersecurity Jobs
+- [⚪] Course 09 – Accelerate your job search with AI.
