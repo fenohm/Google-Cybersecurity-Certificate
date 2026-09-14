@@ -1,4 +1,4 @@
- # Course 02 – Play It Safe: Manage Security Risks
+# Course 02 – Play It Safe: Manage Security Risks
 
 ## Descripción
 
