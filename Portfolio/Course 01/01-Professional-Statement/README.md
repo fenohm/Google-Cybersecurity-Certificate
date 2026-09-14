@@ -6,11 +6,11 @@ Siempre me ha interesado la informática, especialmente los computadores y los d
 Mi objetivo es aprovechar al máximo el tiempo que me queda de formación, seguir desarrollando mis conocimientos y fortalecer las habilidades que ya he adquirido. Para el próximo año, mi objetivo es comenzar a trabajar en el área de ciberseguridad y continuar adquiriendo experiencia práctica.
 
 ## Durante mi formación he trabajado y desarrollado conocimientos en:
--Fundamentos de ciberseguridad
--Redes y Cisco Packet Tracer
--Linux
--SQL
--Programación básica con Python
--GitHub
--Laboratorios con máquinas virtuales
--Identificación de activos, amenazas y vulnerabilidades
+- Fundamentos de ciberseguridad
+- Redes y Cisco Packet Tracer
+- Linux
+- SQL
+- Programación básica con Python
+- GitHub
+- Laboratorios con máquinas virtuales
+- Identificación de activos, amenazas y vulnerabilidades
