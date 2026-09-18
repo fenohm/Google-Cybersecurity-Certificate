@@ -36,7 +36,7 @@ También estudié diferentes tipos de vulnerabilidades, amenazas y ataques, junt
 
 - [X] Introducción a la seguridad de los recursos
 - [X] Proteger los recursos de una organización
-- [] Vulnerabilidades en los sistemas
+- [X] Vulnerabilidades en los sistemas
 - [] Amenazas a la seguridad de los recursos
 
 ---
