@@ -24,7 +24,7 @@ The scenario focuses on the risks of connecting an unknown USB device and the po
 * Proposing technical, operational, and managerial controls
 * Applying cybersecurity concepts to a real-world scenario
 
-Deliverable
+## Deliverable
 
-- Parking Lot USB Exercise
-- Download the DOCX exercise
+- [Parking Lot USB Exercise](./Parking-Lot-USB-Exercise.md)
+- [Download the DOCX exercise](./Parking-Lot-USB-Exercise.docx)
