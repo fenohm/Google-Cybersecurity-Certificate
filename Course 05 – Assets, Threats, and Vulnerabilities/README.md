@@ -27,7 +27,7 @@ También estudié diferentes tipos de vulnerabilidades, amenazas y ataques, junt
 ## Estado
 
 
-🟡 En progreso
+🟢 Completado
 
 ---
 
@@ -37,7 +37,7 @@ También estudié diferentes tipos de vulnerabilidades, amenazas y ataques, junt
 - [X] Introducción a la seguridad de los recursos
 - [X] Proteger los recursos de una organización
 - [X] Vulnerabilidades en los sistemas
-- [] Amenazas a la seguridad de los recursos
+- [X] Amenazas a la seguridad de los recursos
 
 ---
 
