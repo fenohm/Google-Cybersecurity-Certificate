@@ -1,5 +1,4 @@
 # Glossary – Course 03
-
 ---
 
 ## A
