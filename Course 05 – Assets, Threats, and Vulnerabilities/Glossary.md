@@ -168,13 +168,3 @@
 ### O
 
 **OAuth:** Protocolo de autorización de estándar abierto que permite compartir accesos específicos entre aplicaciones.
-
----
-
-### P
-
-**Process of Attack Simulation and Threat Analysis (PASTA):** Marco de modelado de amenazas utilizado en distintas industrias.
-
-**Payment Card Industry Data Security Standards (PCI DSS):** Conjunto de estándares de seguridad establecidos por importantes organizaciones de la industria financiera.
-
-**Personally identifiable information (PII):** Cualquier i
