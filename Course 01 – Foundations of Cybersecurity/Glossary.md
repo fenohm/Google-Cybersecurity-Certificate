@@ -294,11 +294,6 @@ Técnica que utiliza la **comunicación electrónica por voz** para obtener info
 ### Watering hole attack
 
 Tipo de ataque en el que un threat actor **compromete un sitio web frecuentado por un grupo específico de usuarios** con el objetivo de atacar a quienes lo visitan.
-
----
-
-## 📌 Course Reference
-
 **Course:** Foundations of Cybersecurity
 **Program:** Google Cybersecurity Professional Certificate
 **Topic:** Cybersecurity Glossary
