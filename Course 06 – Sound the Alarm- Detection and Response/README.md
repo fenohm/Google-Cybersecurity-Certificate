@@ -31,7 +31,7 @@ También estudié diferentes técnicas para analizar el tráfico de red, investi
 
 ## Módulos
 
-* [] Introducción a la Detección y Respuesta ante incidentes
+* [X] Introducción a la Detección y Respuesta ante incidentes
 * [] Monitoreo y análisis de redes
 * [] Investigación y respuesta a incidentes
 * [] Tráfico de red y registros mediante herramientas IDS y SIEM
